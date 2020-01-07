@@ -1,0 +1,1 @@
+An implementation of [RAdam](https://arxiv.org/abs/1908.03265) for PyTorch.
